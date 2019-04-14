@@ -6,6 +6,3 @@ Internet.
 
   The problem is pretty much simplified to a standard text classification problem
 
-Objectives :
-1. Creating a ML model.
-2. Generating parse scripts to distinguish JS code from HTML.
